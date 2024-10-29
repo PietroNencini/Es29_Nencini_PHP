@@ -23,7 +23,7 @@ function updateCountryFlag() {
             img_path = uk_flag;
             break;
         default:
-            console.log("ERORRE");
+            console.log("ERRoRE");
     }
     image.src = img_path;
 }
